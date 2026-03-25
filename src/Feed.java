@@ -7,7 +7,7 @@ public class Feed {
 
         // Step 2: Add 7 post descriptions using .add()
         // Example: feed.add("Maya posted a photo");
-
+        System.out.println("----Top of feed----");
         feed.add("Maya posted a photo.");
         feed.add("Jared posted a reel.");
         feed.add("Donald added to his story");
